@@ -28,7 +28,7 @@ tempo gasto na viagem, a distância percorrida e a quantidade de litros utilizad
 viagem. */
 
 void viagem(){
-
+    //Fernanda é linda s2
 }
 
 /*  */
