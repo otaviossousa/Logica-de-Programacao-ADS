@@ -218,6 +218,5 @@ void alunos(){
 
 /*  */
 int main(){
-    alunos();
     return 0;
 }
