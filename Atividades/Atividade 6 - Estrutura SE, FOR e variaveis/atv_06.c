@@ -215,8 +215,19 @@ void alunos(){
     }
 }
 
+void imc(){
+    float peso,altura,imc;
+    printf("Digite seu peso:");
+    scanf("%f",&peso);
+    printf("Digite sua altura:");
+    scanf("%f",&altura);
+    imc = peso/(altura * altura);
+    printf("IMC: %f",imc);
+}
 
 /*  */
+
 int main(){
+    imc();
     return 0;
 }
